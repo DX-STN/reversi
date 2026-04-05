@@ -4,7 +4,7 @@
   "start_url": "/reversi/",
   "scope": "/reversi/",
   "display": "standalone",
-  "background_color": "#fff",
+  "background_color": "#50ffc2",
   "theme_color": "#1976d2",
   "icons": [
     {
