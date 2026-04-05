@@ -8,7 +8,7 @@
   "theme_color": "#50ffc2",
   "icons": [
     {
-      "src": "rx2.png",
+      "src": "rx2L.png",
       "sizes": "192x192",
       "type": "image/png"
     }
