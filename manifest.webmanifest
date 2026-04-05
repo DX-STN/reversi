@@ -5,10 +5,10 @@
   "scope": "/reversi/",
   "display": "standalone",
   "background_color": "#50ffc2",
-  "theme_color": "#1976d2",
+  "theme_color": "#50ffc2",
   "icons": [
     {
-      "src": "r-192.png",
+      "src": "rx2.png",
       "sizes": "192x192",
       "type": "image/png"
     }
